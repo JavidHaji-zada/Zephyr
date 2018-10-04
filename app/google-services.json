@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "114759849113",
+    "firebase_url": "https://test-8414c.firebaseio.com",
+    "project_id": "test-8414c",
+    "storage_bucket": "test-8414c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114759849113:android:16bd22960308d161",
+        "android_client_info": {
+          "package_name": "javidhaji_zada.Zephyr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114759849113-rhqosmumckj7luupku8ort8l0sb227b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "javidhaji_zada.Zephyr",
+            "certificate_hash": "5c409c0cbb803c6b787bd30357e038cf9536ac5e"
+          }
+        },
+        {
+          "client_id": "114759849113-kqahqj0j02eup3004khrueoolqtmhtvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTP6VSTxVokFZlxUcYqZquahv8t6s9-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114759849113-kqahqj0j02eup3004khrueoolqtmhtvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9467200614816858~4037290818"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114759849113:android:8ab4bb788cea0817",
+        "android_client_info": {
+          "package_name": "javidhaji_zada.Zephyr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114759849113-86s7m5g9uoeb122dpglkut52g7qg0546.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "javidhaji_zada.Zephyr",
+            "certificate_hash": "5c409c0cbb803c6b787bd30357e038cf9536ac5e"
+          }
+        },
+        {
+          "client_id": "114759849113-kqahqj0j02eup3004khrueoolqtmhtvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTP6VSTxVokFZlxUcYqZquahv8t6s9-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114759849113-kqahqj0j02eup3004khrueoolqtmhtvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

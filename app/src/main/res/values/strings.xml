@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Zephyr</string>
+
+    <!-- Strings related to login and register-->
+    <string name="prompt_email" translatable="true">Email</string>
+    <string name="prompt_password" translatable="true">Password</string>
+    <string name="title_activity_login" translatable="false">Login</string>
+    <string name="remember_me" translatable="true">Remember me</string>
+    <string name="sign_in" translatable="true">Sign in</string>
+    <string name="empty_email" translatable="true">Please enter your e-mail</string>
+    <string name="empty_password" translatable="true">Please enter your password</string>
+    <string name="unsuccessfull_login" translatable="true"> Invalid email/password. Please try again.</string>
+    <string name="register" translatable="true"> Register</string>
+    <string name="register_here" translatable="true"><u>Register here</u></string>
+    <string name="name" translatable="true">Name</string>
+    <string name="surname" translatable="true">Surname</string>
+    <string name="age" translatable="true">Double click to open Calendar</string>
+    <string name="birthday_error" translatable="true">Please enter your age in proper format</string>
+    <string name="age_rest" translatable="true">You must be at least 18</string>
+    <string name="complete_all_fields" translatable="true">Please complete all fields</string>
+    <string name="already_exists" translatable="true">Already registered with this e-mail</string>
+    <string name="auth_failed" translatable="true">Authentication failed</string>
+    <string name="no_back" translatable="true">You can\'t go back</string>
+    <string name="gender" translatable="true">Gender</string>
+    <string name="loggingIn" translatable="true" type="id">Logging in… Please wait</string>
+    <string name="email_sent" translatable="true">"Check your e-mail address "</string>
+    <string name="yes" translatable="true"> Yes</string>
+    <string name="no" translatable="true">No</string>
+    <string name="registering" translatable="true">Please wait while registration is still on process…</string>
+
+    <!-- Strings related to Toasts -->
+    <string name="double_press" translatable="true">Press back again to exit</string>
+    <string name="smth_wrong" translatable="true">Something went wrong</string>
+    <string name="language_changed" translatable="true">Language settings set to English</string>
+
+    <!-- Strings related to tabs -->
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="tab_text_1" translatable="false">Tab 1</string>
+    <string name="tab_text_2" translatable="false">Tab 2</string>
+    <string name="tab_text_3" translatable="false">Tab 3</string>
+    <string name="age1" translatable="true">Age</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+
+    <!-- Strings related to edit profile activity -->
+    <string name="edit_profile" translatable="true">Edit profile</string>
+    <string name="about_you" translatable="true">Write a bit about yourself…</string>
+    <string name="updating_profile" translatable="true">Updating profile. Please wait…</string>
+    <string name="female" translatable="true">Woman</string>
+    <string name="male" translatable="true"> Man</string>
+
+    <!--Strings related to storage permission -->
+    <string name="access" translatable="true">Allow <b>Zephyr</b> to access photos, media and files on your device?</string>
+    <string name="allow" translatable="true">Allow</string>
+    <string name="deny" translatable="true">Deny</string>
+    <string name="access_denied" translatable="true">Access denied</string>
+    <string name="camera" translatable="true">Camera</string>
+    <string name="gallery" translatable="true">Gallery</string>
+    <string name="cancel" translatable="true">Cancel</string>
+    <string name="choose_photo" translatable="true">Choose photo</string>
+
+    <!--Strings related to dialog -->
+    <string name="setting_profile" translatable="true">Setting up your profile. Please wait a while…</string>
+    <string name="partner_username" translatable="false">Partner Username</string>
+    <string name="messages" translatable="true"> Messages</string>
+    <string name="new_matches" translatable="true">New Matches</string>
+    <string name="enter_message" translatable="true">Enter your message here</string>
+    <string name="english" translatable="true">English</string>
+    <string name="russian" translatable="true">Russian</string>
+    <string name="azerbaijani" translatable="true">Azerbaijani</string>
+    <string name="chooseLanguage" translatable="true">Choose language</string>
+    <string name="new_picture" translatable="true">New photo</string>
+    <string name="from_camera" translatable="true">From Camera</string>
+    <string name="about_username" translatable="true">About Username</string>
+    <string name="username" translatable="true">Username</string>
+    <string name="about" translatable="true">About</string>
+    <string name="nothing_to_show" translatable="false">Nothing to show</string>
+
+    <!-- String related to notification messages -->
+    <string name="notification1" translatable="true">Someone liked you!</string>
+    <string name="notification2" translatable="true">walked next to you!</string>
+    <string name="delete_confirm" translatable="true">Do you really want to delete this photo?</string>
+    <string name="delete" translatable="true">Delete photo</string>
+    <string name="confirm" translatable="true">Confirm</string>
+    <string name="deleted" translatable="true">Chosen photo deleted</string>
+    <string name="chooseAction" translatable="true">Choose</string>
+    <string name="addNewPhoto" translatable="true">Add new photo</string>
+    <string name="maximum_distance">Maximum distance</string>
+    <string name="settings" translatable="true">Settings</string>
+    <string name="age_range" translatable="true">Age range</string>
+    <string name="forgot_password" translatable="true">Forgot password?</string>
+    <string name="deletingPhoto" translatable="true">Deleting photo…</string>
+    <string name="newMatch" translatable="true">You have new match</string>
+
+
+    <!-- Sample male names -->
+    <string name="name1_males" translatable="false">Murad</string>
+    <string name="name2_males" translatable="false">Əli</string>
+    <string name="name3_males" translatable="false">Toğrul</string>
+    <string name="name4_males" translatable="false">Nurlan</string>
+
+    <!-- Sample female names -->
+    <string name="name1_females" translatable="false">Aysel</string>
+    <string name="name2_females" translatable="false">Aynur</string>
+    <string name="name3_females" translatable="false">Günel</string>
+    <string name="name4_females" translatable="false">Günay</string>
+    <string name="name5_females" translatable="false">Lalə</string>
+    <string name="name6_females" translatable="false">Nərmin</string>
+    <string name="name7_females" translatable="false">Leyla</string>
+    <string name="name8_females" translatable="false">Ləman</string>
+    <string name="name9_females" translatable="false">Nigar</string>
+    <string name="name10_females" translatable="false">Mədinə</string>
+    <string name="name11_females" translatable="false">Elya</string>
+    <string name="name12_females" translatable="false">Aygün</string>
+    <string name="name13_females" translatable="false">Sabina</string>
+    <string name="name14_females" translatable="false">Aida</string>
+    <string name="name15_females" translatable="false">Fidan</string>
+
+    <!-- Privacy policy -->
+    <string name="accept_policy" translatable="true">"*By pressing register, you agree to our <u> Terms</u> of usage. "</string>
+    <string name="privacy_policyTitle" translatable="true">Privacy Policy*</string>
+
+    <string name="privacy_policy" translatable="false">Your Privacy Rights
+The Privacy Policy applies to the Zephyr Dating app and all related sites, applications, services and tools regardless of how you access or use any of them. It describes how we collect, use, store, share and protect your personal information.
+
+Consent
+
+You accept this Privacy Policy by signing up, accessing or using our site, content, services, products, technologies or any feature we offered on the website, related site, applications, services (collectively Zephyr or Dating Site, interchangeably). This privacy notice covers the information collection, retention, and sharing practices of Zephyr (“We” or “we”) as they refer to users (“you) who register for any of our services or visit Zephyr (the “app”). Use of the Site and/or our services constitutes acceptance of our privacy practices,
+
+We may alter the Privacy Policy at any time. The revised version will be effective as of the published effective date.  After this period, you will be considered as having consented to all amendments to the Privacy Policy.
+
+Responsibility
+
+You should know that all information submitted on our Dating Site might be publicly accessible. Important and private information should be protected by you. We are not responsible for protecting, nor are we liable for failing to protect, the privacy of electronic mail or other information transferred through the internet or any other network you may utilize. we are not responsible for whatever happens within the app and outside the app. For whatever happens outside the app which includes any violence or breaking the law, the app does not carry any responsibility whatsoever
+
+ Use of the Site may trigger the collection of non-personal information, such as your IP address, which is used for tracking or analytics purposes and may be provided to other parties for marketing, advertising, or other uses.
+
+If you register for Zephyr services, we collect personal information from you, including, but not limited to, your first and last name, e-mail address, phone number, location, age, and photo. This information may be combined with non-personal information collected from you
+
+
+
+The information we collect
+
+We may collect information that can identify you (“personal information”) such as your name and email address. We may collect information that does not identify you. By providing your personal information through Zephyr, you agree that we may store the information on our servers in countries around the world.
+
+We may collect and store any personal information you provide through our Dating app, including but not limited to your name, address, email address, telephone number.
+
+You may provide us with information about your activities, opinions, gender, age, interests, hometown and username.
+
+Unlike the majority of the dating platforms, we do not ask you to provide us with information about your sexual orientation to use our Dating app. However, you may provide us with your “who you are looking for” settings other users may see. You may change these data at any time.
+
+We use this information to personalize your experience, send information to your “Matches”, improve our website, improve customer service, collect and analyze statistics and trends, process transactions, and send periodic email communications about our services. Any information that you provide to us may be shared with a Match to improve your experience, including, but not limited to, your first and last name, photos, location, age, religion, phone number, and email. Your billing information and address will never be shared with Matches. A “Match” is defined as another Member of the site that we provide an online introduction to.
+
+
+
+Information from third parties
+
+To stop fraudulent activities, and to provide the best user experience, we may collect information about you by using social networks such as Google+, Facebook, other dating sites and publicly available information. We may use the available technologies (Google image search, Bayes algorithm, IP location services) to protect you and the rest of our users from fraud.
+
+Others
+
+You may provide us with information about others (friends, colleges, family members) such as their name or email address. If you send gifts or invitations using our app, we may process those information and store them for further usage.
+
+Technical data
+
+We use, store and process cookies, browser and device information, your IP address, your activity (access time of Zephyr), location services. We also store and process information, provided by you or collected by our Dating Site, in cookies.
+
+We use other (industry standard) technologies to customize the service, to target advertisements, to analyze and to improve our marketing strategy and our Dating Site.
+
+Other
+
+
+
+We may use the results of our internal analysis to prevent suspicious activities from happening on our Dating app. We may use the result of the analysis to protect you and all of our legitimate members.
+
+Our automated anti-fraud system recognizes certain activities. It does not recognize human intentions. It may mistakenly block members exhibiting activities similar to sending spam. You accept this.
+
+ If you signed in using a shared or a public computer, it is your responsibility to sign out at the end of the session</string>
+    <string name="zephyr_ads">Zephyr Ads</string>
+    <string name="for_more_information_994_50_282_06_80">For more information: +994 50 282 06 80</string>
+</resources>
